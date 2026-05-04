@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "commuhealth-outbreak-risk-score-predictor",
+    "alias_name": "production",
+    "champion_version": 1,
+    "challenger_version": 1,
+    "action": "kept"
+}

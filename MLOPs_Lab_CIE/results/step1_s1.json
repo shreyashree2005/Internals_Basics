@@ -1,0 +1,18 @@
+{
+    "experiment_name": "commuhealth-outbreak-risk-score",
+    "models": [
+        {
+            "name": "Ridge",
+            "mae": 8.221691168861419,
+            "rmse": 9.538019590139543
+        },
+        {
+            "name": "RandomForest",
+            "mae": 5.292340000000035,
+            "rmse": 6.306395756214492
+        }
+    ],
+    "best_model": "RandomForest",
+    "best_metric_name": "mae",
+    "best_metric_value": 5.292340000000035
+}

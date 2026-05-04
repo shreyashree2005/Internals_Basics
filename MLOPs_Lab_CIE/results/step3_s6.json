@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "commuhealth-outbreak-risk-score-predictor",
+    "version": 1,
+    "run_id": "e4310f183fb143ecb7d2d7f5acbae7bc",
+    "source_metric": "mae",
+    "source_metric_value": 5.29
+}
